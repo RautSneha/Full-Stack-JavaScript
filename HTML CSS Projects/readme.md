@@ -20,8 +20,8 @@ It tooks 3 days for me to complete.
 - max-width
 ```
 Links for Projects :
-1. [Project 01 - Service Provider - SEO Master](/Project01)
+1. [Project 01 - Service Provider - SEO Master](https://github.com/RautSneha/Full-Stack-JavaScript/tree/main/HTML%20CSS%20Projects/Project%2001)
 
-2. [Project 02 - Buy Token - Crypto Market](/project02)
+2. [Project 02 - Buy Token - Crypto Market](https://github.com/RautSneha/Full-Stack-JavaScript/tree/main/HTML%20CSS%20Projects/Project%2002)
 
-3. [Project 03 - Trend 2025, Fashion Hub](/project03)
+3. [Project 03 - Trend 2025, Fashion Hub](https://github.com/RautSneha/Full-Stack-JavaScript/tree/main/HTML%20CSS%20Projects/Project%2003)
