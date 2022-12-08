@@ -1,0 +1,183 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+
+.container {
+    margin: 3% 7%;
+    height: 80vh;
+}
+
+.navbar-container div img {
+  width: 90px;
+}
+
+.list {
+    margin-top: -2%; 
+    margin-left: 25%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.list-item {
+    list-style: none;
+    margin-left: 20%;
+    font-family: Orbitron;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.list-item:first-child {
+    font-weight: 1000;
+    font-size: 17px;
+}
+
+.list-item:first-child::after{
+    content: '';
+    position: absolute;
+    margin-top: 8%;
+    margin-left: -15.2%; 
+    height: 2px;
+    width: 12.5%;
+    background-color: #000000;
+}
+
+/* .button-group{
+    position: relative;
+    display: flex;
+    margin-top: -2%;
+    margin-left: 80%;
+} */
+
+.search-icon svg {
+    position: absolute;
+    display: inline-block;
+    margin-top: -2%;
+    margin-left: 71%;
+    width: 3%;
+    height: 3.5%;
+}
+
+.nav-button {
+    position: absolute;
+    margin-top: -2.5%;
+    margin-left: 75%;
+    padding: 2px 30px;
+    background-color: #ffffff;
+    border-radius: 10px; 
+    font-family: Poppins;
+    font-size: 14px;
+}
+
+/* .hero-container {
+    margin-top: 30px;
+} */
+
+span.square img {
+    position: absolute;
+    height: 260px;
+    width: 280px;
+    margin-top: 16.3%;
+    margin-left: 6.5%; 
+}
+
+.hero-container > div > img {
+    position: absolute;
+    margin-top: 45px; 
+    width: 310px;
+    height: 380px;
+}
+
+span.star img {
+    position: absolute;
+    margin-top: 5%;
+    margin-left: 80%;
+    width: 40px;
+}
+ 
+.hero-container > span:nth-child(2) img {
+    position: absolute;
+    margin-top: 32%;
+    margin-left: 36%;
+    width: 30px;
+    height: auto;
+}
+
+span.globe img {
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 43%;
+    width: 50px;
+}
+
+.hero-container-right {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 8%;
+    margin-left: 25%;
+}
+
+.hero-heading {
+    position: absolute;
+    font-family: Orbitron;
+    font-size: 48px;
+    margin-top: 3%;
+    margin-left: 0%;
+}
+
+.hero-description {
+    position: relative;
+    font-family: Poppins;
+    font-size: 12px;
+    color: #808080;
+    margin-top: 14%;
+    margin-left: 19%;
+    margin-right: 18%;
+    text-align: center;
+}
+
+.button-email{
+    font-family: Orbitron;
+    position: absolute;
+    margin-top: 27%;
+    margin-left: -66%;
+    padding: 2px 18px;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+
+.button-join {
+    font-family: Orbitron;
+    position: absolute;
+    margin-top: 27%;
+    margin-left: -47%;
+    padding: 2px 1px;
+    border-radius: 6px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.contact-heading {
+    position: absolute;
+    margin-top: 36%;
+    margin-left: -55%;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.icons {
+    position: absolute;
+    margin-top: 40%;
+    margin-left: -60%;
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 15px;
+    height: 10px;
+}
+
+.icons > span > img {
+    margin-left: 10px;
+    width: 25px;
+}
